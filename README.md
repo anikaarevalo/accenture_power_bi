@@ -4,7 +4,7 @@
 
 ## Description
 
-Becode, in collaboration with Accenture, has a mission to generate business perspectives from the data. Our team from Becode Brussels and Ghent executed three steps to complete the task. Firstly, the data was gathered from Azzure Cosmos DB then we cleaned it to remove bias and inaccuracy. After, we created data visualizations using PowerBI. Valuable and intense brainstorming sessions were involved during the project.
+Becode, in collaboration with Accenture, has a mission to generate business perspectives from data. Our team from Becode Brussels and Ghent executed three steps to complete the task. Firstly, the data was gathered from Azzure Cosmos DB then we cleaned it to remove bias and inaccuracy. After, we created data visualizations using PowerBI. Valuable and intense brainstorming sessions were involved during the project.
 
 ## Installation
 
