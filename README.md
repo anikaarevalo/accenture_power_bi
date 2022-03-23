@@ -33,3 +33,4 @@ For data analysis, visualisation, and recommending intelligent business solution
 14/03/2022 - 23/03/2022
 
 
+![This is an image](https://github.com/hsinhandev/accenture_power_bi/blob/3d6c361e51f21822b012feffff7e4431579b201c/Team%203%20FTW.jpg)
