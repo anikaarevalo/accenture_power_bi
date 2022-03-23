@@ -14,7 +14,7 @@ The following software, platform, and tools were utilised in this project:
 2. Python
 3. Pandas
 4. Azure Cosmos DB
-5. Google slides 
+5. Google Slides 
 
 ## Usage 
 
