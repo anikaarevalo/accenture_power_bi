@@ -24,7 +24,7 @@ For data analysis, visualisation, and recommending intelligent business solution
 1. Anika Arevalo
 2. Hsin Lin
 3. Sebastián García Martínez
-4. Rosyidah Nadiah
+4. Rosyidah Nada Nadia
 
 ## Timeline
 
