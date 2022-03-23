@@ -8,7 +8,7 @@ Accenture, in collaboration with BeCode, has a mission to generate business pers
 
 ## Installation
 
-The following software and tools were utilised in this project:
+The following software, platforms, and tools were utilised in this project:
 
 1. Power BI
 2. Python
