@@ -14,9 +14,9 @@ The following software, platform, and tools were utilised in this project:
 2. Python
 3. Pandas
 4. Azure Cosmos DB
-5. Google Slides 
+5. Google Slides
 
-## Usage 
+## Usage
 
 For data analysis, visualisation, and recommending intelligent business solutions
 
@@ -29,9 +29,9 @@ For data analysis, visualisation, and recommending intelligent business solution
 
 ## Timeline
 
-8 days 
+8 days
 
 14/03/2022 - 23/03/2022
 
 
-![This is an image](https://github.com/hsinhandev/accenture_power_bi/blob/3d6c361e51f21822b012feffff7e4431579b201c/Team%203%20FTW.jpg)
+![This is an image](/assets/Team%203%20FTW.jpg)
